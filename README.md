@@ -1,7 +1,5 @@
-# CE888
-### Welcome to my CE888: Data Science and Decision Making repository for course projects
-
-
+# CE888: Data Science and Decision Making
+### My Data Science and Decision Making lab works
 
 #### Lab 1: Introduction
 
