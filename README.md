@@ -18,3 +18,5 @@
 #### Lab 8: Transfer Learning
 
 #### Lab 9: Generative Adversarial Networks (GAN) & Variational AutoEncoders (VAE)
+
+#### Lab 10: Model Deployment
