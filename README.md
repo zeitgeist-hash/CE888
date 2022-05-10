@@ -20,3 +20,5 @@
 #### Lab 9: Generative Adversarial Networks (GAN) & Variational AutoEncoders (VAE)
 
 #### Lab 10: Model Deployment
+
+#### Assignment: A comparative study of ERNIE for TweetEval-based Multi-class tweet classification
